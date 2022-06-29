@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nithish12Krish
 - 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning MERN Stack and imporving my JavaScript problem solving skills.
-- 💞️ I’m looking to collaborate on top companies
+- 🌱 I’m currently working in Java Full Stack development and imporving my Java problem solving skills.
+- 💞️ I’m looking to collaborate on companies
 - 📫 How to reach me? --Email me: nithish1281999@gmail.com
 
 <!---
